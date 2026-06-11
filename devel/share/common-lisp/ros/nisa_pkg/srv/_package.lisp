@@ -1,0 +1,10 @@
+(cl:defpackage nisa_pkg-srv
+  (:use )
+  (:export
+   "DIKDORTGENALAN"
+   "<DIKDORTGENALAN-REQUEST>"
+   "DIKDORTGENALAN-REQUEST"
+   "<DIKDORTGENALAN-RESPONSE>"
+   "DIKDORTGENALAN-RESPONSE"
+  ))
+

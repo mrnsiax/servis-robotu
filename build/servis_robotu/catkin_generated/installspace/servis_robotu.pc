@@ -1,0 +1,8 @@
+prefix=/home/nisa/nisa_ws/install
+
+Name: servis_robotu
+Description: Description of servis_robotu
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
